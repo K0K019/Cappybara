@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{28DDEC79-B486-4FC6-8F5A-3BE28458B424}</ProjectGuid>
+    <ProjectGuid>{F259F0F4-C2CA-4843-831C-1548494B1FA4}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ConsoleApp2</RootNamespace>
-    <AssemblyName>ConsoleApp2</AssemblyName>
+    <RootNamespace>piramida_ot_chisla</RootNamespace>
+    <AssemblyName>piramida ot chisla</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
