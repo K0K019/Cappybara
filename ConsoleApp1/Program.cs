@@ -15,7 +15,7 @@ namespace ConsoleApp1
             for (var i = 0; i < n; i+=3)
             {
                 Console.WriteLine(i);
-                // Anton i Nikola Luchev
+                // Anton i Nikola Luchev 
             }
         }
     }
