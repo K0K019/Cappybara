@@ -30,4 +30,4 @@ namespace piramida_ot_chisla
             Console.ReadLine();
         }
     }
-}                     // Anton i Nikola Luchev
+}                     // Anton i Nikola Luchev 
